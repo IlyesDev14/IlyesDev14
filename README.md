@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IlyesDev14
-- 🌱 I’m currently learning front-end JS framworks
+- 🌱 I’m currently learning front-end JS frameworks
 - ⚡ Fun fact: I'm a tech Returner, i've paused my Dev carrier for a certain periode, and now i'm back on my Dev chair...
 
 <!---
